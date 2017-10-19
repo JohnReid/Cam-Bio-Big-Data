@@ -11,10 +11,10 @@ aware Matlab has many users and Julia is increasingly popular in this space.
 
 Please feel free to update the information here. We would appreciate your
 involvement to keep this resource up-to-date. If you know of any additional
-courses or resources not listed below please either let me know or update
-the repository with a pull request. If you have taken any of the courses
-below and have opinions or information that is worth sharing, please add it
-to the repository.
+courses or resources not listed below please either let me know or update the
+repository with a pull request. If you have taken any of the courses or used
+any of the training resources below and have opinions or information that are
+worth sharing, please add them to this document.
 
 
 ## Cambridge University training
