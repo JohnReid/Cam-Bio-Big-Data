@@ -1,13 +1,13 @@
 # Cam-Bio-Big-Data
 This repository is a directory of training available in Cambridge and nearby
 for basic bioinformatics processing and computational expertise in handling big
-data. The resources listed here are focussed on the needs of researchers in the
+data. The resources listed here are focused on the needs of researchers in the
 SOMX and PREM themes at the [MRC Biostatistics
 Unit](https://www.mrc-bsu.cam.ac.uk/) but should be broadly applicable to other
 themes and related research in other institutes.
 
 The languages we have a particular focus on are R and python although we are
-aware Matlab has many users and Julia is increasingly popular in this space.
+aware MATLAB has many users and Julia is increasingly popular in this space.
 
 Please feel free to update the information here. We would appreciate your
 involvement to keep this resource up-to-date. If you know of any additional
