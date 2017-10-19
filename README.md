@@ -82,3 +82,14 @@ bioinformatics courses. These are run on a commercial basis although bursaries
 of up to 50% may be available.
 
 
+## The Alan Turing Institute
+The [Alan Turing Institute](https://www.turing.ac.uk/) is the national
+institute for data science and runs [short
+courses](https://www.turing.ac.uk/events/) on all aspects of data science. It
+is easily accessible from Cambridge by train (<50 minutes).
+
+
+## MRC Biostatistics Unit
+At the BSU John Reid is available to talk about any of the resources listed
+above. Additionally Colin Starr is the main point of contact regarding high
+performance computing.
