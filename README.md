@@ -1,12 +1,12 @@
 # Cam-Bio-Big-Data
-This repository is a directory of training available in Cambridge and nearby
-for basic bioinformatics processing and computational expertise in handling big
-data. The resources listed here are focused on the needs of researchers in the
-SOMX and PREM themes at the [MRC Biostatistics
+This repository is a directory of training resources available in Cambridge and
+nearby for basic bioinformatics processing and computational expertise in
+handling big data. The resources listed here address the needs of
+researchers in the SOMX and PREM themes at the [MRC Biostatistics
 Unit](https://www.mrc-bsu.cam.ac.uk/) but should be broadly applicable to other
 themes and related research in other institutes.
 
-The languages we have a particular focus on are R and python although we are
+The languages we have a particular focus on are R and Python although we are
 aware MATLAB has many users and Julia is increasingly popular in this space.
 
 Please feel free to update the information here. We would appreciate your
@@ -28,6 +28,17 @@ the university. These include:
   runs an [MPhil in Computational Biology](http://www.maths.cam.ac.uk/postgrad/mphil/compbio)
   which has several relevant courses including *genome informatics* and
   *scientific programming*.
+
+* The [Computer Laboratory](http://www.cl.cam.ac.uk/) runs an [MPhil in
+  Advanced Computer Science](https://www.cst.cam.ac.uk/admissions/acs/index.html)
+  that has several relevant courses including [Machine Learning and
+  Algorithms for Data Mining](http://www.cl.cam.ac.uk/teaching/1718/L42/).
+
+### Cambridge Big Data Initiative
+Researchers at the university are able to
+[join](https://www.bigdata.cam.ac.uk/contact-us/join-us) the Cambridge Big Data
+Initiative. This includes subscription to a mailing list that provides regular
+updates on big data related activities including training.
 
 
 ## MOOCs
@@ -55,7 +66,7 @@ A few relevant courses out of the many are:
   specialisation](https://www.coursera.org/specializations/genomic-data-science)
   out of John Hopkins with 8 courses.
 
-### Other providers
+### Other notable providers
 * [EdX](https://www.edx.org/)
 * [FutureLearn](https://www.futurelearn.com/) is the largest UK based MOOC provider.
 * [MIT Open Courseware](https://ocw.mit.edu/index.htm)
@@ -67,5 +78,7 @@ The [Wellcome Genome
 Campus](https://coursesandconferences.wellcomegenomecampus.org/) which hosts
 the [Wellcome Trust Sanger Institute](https://www.sanger.ac.uk/) and
 [EMBL-European Bioinformatics Institute](http://www.ebi.ac.uk/) runs some
-bioinformatics courses. These are run on a commercial basis.
+bioinformatics courses. These are run on a commercial basis although bursaries
+of up to 50% may be available.
+
 
