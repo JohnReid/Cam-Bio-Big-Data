@@ -1,4 +1,4 @@
-# Cam-Bio-Big-Data
+# Cambridge bioinformatics and big data training resources
 This repository is a directory of training resources available in Cambridge and
 nearby for basic bioinformatics processing and computational expertise in
 handling big data. The resources listed here address the needs of
