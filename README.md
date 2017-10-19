@@ -22,7 +22,7 @@ There are several initiatives and departments that offer training to members of
 the university. These include:
 
 * A [Bioinformatics Training initiative](https://bioinfotraining.bio.cam.ac.uk/postgraduate)
-  that runs courses on *basic skills and programming* and more specialised courses.
+  that runs courses on basic skills and programming and more specialised courses.
 
 * The [Cambridge Computational Biology Institute](https://www.ccbi.cam.ac.uk/)
   runs an [MPhil in Computational Biology](http://www.maths.cam.ac.uk/postgrad/mphil/compbio)
