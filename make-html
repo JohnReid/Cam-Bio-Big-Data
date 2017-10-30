@@ -1,0 +1,3 @@
+#!/bin/bash -ex
+
+pandoc --css=etc/modest/css/modest.css README.md -o README.html

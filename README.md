@@ -66,6 +66,19 @@ A few relevant courses out of the many are:
   specialisation](https://www.coursera.org/specializations/genomic-data-science)
   out of John Hopkins with 8 courses.
 
+* [Applied Machine Learning in
+  Python](https://www.coursera.org/learn/python-machine-learning)
+  (U. of Michigan)
+
+* [Deep Learning
+  Specialization](https://www.coursera.org/specializations/deep-learning)
+  (Stanford)
+
+* [Serverless Machine Learning with Tensorflow on Google Cloud
+  Platform](https://www.coursera.org/learn/serverless-machine-learning-gcp)
+  (Google)
+
+
 ### Other notable providers
 * [EdX](https://www.edx.org/)
 * [FutureLearn](https://www.futurelearn.com/) is the largest UK based MOOC provider.
